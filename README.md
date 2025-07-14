@@ -1,3 +1,3 @@
 # UVM-Based-Verification-of-RV32I-RISC-V-Core
 
-Ongoing  Project 
+Ongoing  Project, will complete soon
