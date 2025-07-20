@@ -1,6 +1,6 @@
 
 
-SYSTEM VERILOG CODE FOR ALU :- 
+SYSTEM VERILOG CODE FOR ALU :
 
 // ========================================================================
 // Module: ALU (Custom Version)
