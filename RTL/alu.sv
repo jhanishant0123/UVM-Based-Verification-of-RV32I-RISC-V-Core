@@ -8,7 +8,7 @@ SYSTEM VERILOG CODE FOR ALU :-
 //              Supports additional instructions like NOR and SRA.
 //              Includes debug display for simulation.
 // Author: [NISHANT KUMAR JHA]
-// Date: [03-07-2025
+// Date: [03-07-2025]
 // ========================================================================
 
 module ALU (
