@@ -1,8 +1,3 @@
-
-
-
-
-
 interface riscv_if(input bit clk);
     logic rst;
     
